@@ -9,9 +9,9 @@ I build useful [open-source projects](https://https://github.com/LUFA199x)...
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and Mid-level Engineer role.
 - 💼 Job interests: Cloud Engineer(Intern or Junior level).
-- 📫 You can [view my resume]() below and contact me by emailing alufasola@gmail.com.
+- 📫 You can [view and download a copy of my resume](#) below and contact me by emailing alufasola@gmail.com.
       [Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf](https://github.com/LUFA199x/LUFA199x/files/10834803/Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf)
 
 ---
