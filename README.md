@@ -12,8 +12,8 @@ I build useful [open-source projects](https://https://github.com/LUFA199x)...
 - 😊 I’m looking for help with open source projects, hackathons, internships, and DevOps Engineer role.
 - 💼 Job interests: Collaboration (Open Source | DevOps).
 - 📫 You can [view and download a copy of my resume](#), contact me alufasola@gmail.com.
----
-      [Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf](https://github.com/LUFA199x/LUFA199x/files/10834803/Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf)
+     
+     [Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf](https://github.com/LUFA199x/LUFA199x/files/10834803/Oluwasola_Alufa_Resume_26-02-2023-19-41-52.pdf)
 
 ---
 
