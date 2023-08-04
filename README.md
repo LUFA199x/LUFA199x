@@ -7,9 +7,9 @@ I build useful [open-source projects](https://https://github.com/LUFA199x)...
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and DevOps Engineer role.
+- 😊 I’m looking for open source projects, hackathons, internships, DevOps Engineer and other related role.
 - 💼 Job interests: Collaboration (Open Source | DevOps).
 - 📫 You can [view and download a copy of my resume](#), contact me alufasola@gmail.com.
      
