@@ -5,8 +5,8 @@ Hi, I'm Alufa, a graduate of Civil Engineering, but now a DevOps Engineer with e
 
 ## Professional Interests
 
-- Tinkering around and automating processes.
-- Helping people get into the DevOps space one article at a time, one shared resource at a time.
+- Experimenting with new tools and streamlining workflows through automation.
+- Enabling and mentoring aspiring DevOps professionals, sharing knowledge through articles and curated resources..
 
 <h2 align="center">  <strong> Trust GOD, you will be fine  </strong></h2> 
 
