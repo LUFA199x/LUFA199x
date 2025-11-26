@@ -27,4 +27,4 @@ Making an impact in the following communities:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/solaoluwalufa)
 [<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/lufa199x)
 
-Ganbate ✌!! <br>
+Stay Jiggy ✌!! <br>
